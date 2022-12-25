@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react_notekeeper/static/js/main.3ecde450.js",
+    "index.html": "/react_notekeeper/index.html",
+    "main.3ecde450.js.map": "/react_notekeeper/static/js/main.3ecde450.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3ecde450.js"
+  ]
+}
